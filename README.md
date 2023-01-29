@@ -25,3 +25,6 @@ Display a list of all the favourite movies.
 Make this list persistent (should have the same number of movies before and after closing the browser/refreshing the browser).
 Remove from favourites button: Each movie should have remove from favourites button, clicking on which should remove that movie from the list.
 
+IMDB Website Look Like
+<img width="950" alt="IMDB Website Look" src="https://user-images.githubusercontent.com/115913132/215351736-3d9bf9e3-2bf1-41ea-a2f0-2baebea1f4f8.png">
+
