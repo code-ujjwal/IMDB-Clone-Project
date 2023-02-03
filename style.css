@@ -40,14 +40,14 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    color: white;
+    color: rgb(225, 11, 11);
 }
 /* styling the input section of the search function  */
 #search-area input{
     width: 100%;
-    font-size: 1.5 rem;
+    font-size: 2.2 rem;
     border: none;
-    color: white;
+    color: rgb(10, 9, 9);
     background-color: rgb(248, 242, 242);
 }
 /* the result of the search  */
